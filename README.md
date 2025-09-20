@@ -27,7 +27,7 @@ Not recommended for:
 
 ## 🎥 Demonstration
 
-![Demo GIF]([./demo/lain.gif](https://storage.yandexcloud.net/rizoheisenberg/lain.gif))
+![Demo GIF](https://github.com/NikolaKaplin/lain/blob/main/demo/lain.gif)
 
 ## 🛠️ Technologies
 
